@@ -11,7 +11,7 @@ The project focuses on creating a new user account, assigning a temporary passwo
 - <b>Windows Server 2022</b>
 - <b>Vmware Workstation</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Lab walk-through:</h2>
 
 <p align="center">
 Creating a new user account in Active Directory: <br/>
